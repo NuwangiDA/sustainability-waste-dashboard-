@@ -122,7 +122,7 @@ k3.metric("📅 Selected Year", f"{selected_year}")
 k4.metric("📊 Average Value", f"{avg:,.1f}" if not pd.isna(avg) else "—")
 
 st.markdown("<br>", unsafe_allow_html=True)
-
+#Bar Chart
 # ── CHART 1: Bar by Region ────────────────────────────────────────────────────
 st.markdown('<div class="box">', unsafe_allow_html=True)
 st.markdown('<div class="box-title">📊 Average Value by Region</div>', unsafe_allow_html=True)
