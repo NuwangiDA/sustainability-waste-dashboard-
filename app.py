@@ -16,7 +16,7 @@ html, body, [class*="css"] { font-family: 'Inter', sans-serif; }
 [data-testid="stSidebar"] { background: #1b4332; }
 [data-testid="stSidebar"] * { color: #d8f3dc !important; }
 [data-testid="stSidebar"] h2 { color: #74c69d !important; font-size:0.7rem !important; letter-spacing:2px; text-transform:uppercase; }
-
+#KPI Cards 
 /* Metric cards */
 [data-testid="stMetric"] {
     background: white; border-radius: 14px;
