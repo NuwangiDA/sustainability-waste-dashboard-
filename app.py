@@ -236,7 +236,7 @@ if not composition_df.empty:
 else:
     st.warning("No waste composition data for this year.")
 st.markdown('</div>', unsafe_allow_html=True)
-
+#Rich vs Poor
 # ── CHART 6: Rich vs Poor ─────────────────────────────────────────────────────
 st.markdown('<div class="box">', unsafe_allow_html=True)
 st.markdown('<div class="box-title">💰 Rich vs Poor Countries</div>', unsafe_allow_html=True)
