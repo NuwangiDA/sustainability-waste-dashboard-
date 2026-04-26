@@ -186,7 +186,7 @@ if not filtered_df.empty:
 else:
     st.warning("No data for top countries.")
 st.markdown('</div>', unsafe_allow_html=True)
-
+#Trend Chart
 # ── CHART 4: Trend Over Time ──────────────────────────────────────────────────
 st.markdown('<div class="box">', unsafe_allow_html=True)
 st.markdown('<div class="box-title">📈 Trend Over Time</div>', unsafe_allow_html=True)
