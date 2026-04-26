@@ -135,7 +135,7 @@ if not filtered_df.empty:
                   title=f"<b>{selected_indicator}</b> by Region ({selected_year})")
     fig1.update_traces(marker_line_width=0)
     fig1.update_layout(paper_bgcolor="white", plot_bgcolor="white", showlegend=False,
-                       margin=dict(l=10,r=10,t=40,b=10), height=320,
+                       margin=dict(l=10,r=10,t=40,b=10), height=350,
                        title_font=dict(size=13, color="#374151"),
                        xaxis=dict(showgrid=False, tickfont=dict(size=11)),
                        yaxis=dict(showgrid=True, gridcolor="#f3f4f6"))
