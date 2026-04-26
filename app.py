@@ -328,7 +328,7 @@ with s6:
     </div>
     """, unsafe_allow_html=True)
 st.markdown('</div>', unsafe_allow_html=True)
-
+#Footer 
 # ── FOOTER ────────────────────────────────────────────────────────────────────
 st.markdown(f"""
 <div style="text-align:center; background:white; border-radius:16px; padding:1rem;
