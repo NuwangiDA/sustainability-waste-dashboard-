@@ -257,7 +257,7 @@ if not income_df.empty:
 else:
     st.warning("No income group data available.")
 st.markdown('</div>', unsafe_allow_html=True)
-
+#Strategy Cards
 # ── STRATEGY SECTION ──────────────────────────────────────────────────────────
 st.markdown('<div class="box">', unsafe_allow_html=True)
 st.markdown('<div class="box-title">💡 Waste Management Strategies</div>', unsafe_allow_html=True)
