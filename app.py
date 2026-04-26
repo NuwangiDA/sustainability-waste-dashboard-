@@ -211,7 +211,7 @@ if not trend_df.empty:
 else:
     st.warning("No trend data for this country and indicator.")
 st.markdown('</div>', unsafe_allow_html=True)
-
+#Pie Chart
 # ── CHART 5: Waste Composition ────────────────────────────────────────────────
 st.markdown('<div class="box">', unsafe_allow_html=True)
 st.markdown('<div class="box-title">🍩 Waste Composition Breakdown</div>', unsafe_allow_html=True)
