@@ -331,8 +331,8 @@ st.markdown('</div>', unsafe_allow_html=True)
 
 # ── FOOTER ────────────────────────────────────────────────────────────────────
 st.markdown(f"""
-<div style="text-align:center; background:white; border-radius:14px; padding:1rem;
-            box-shadow:0 2px 8px rgba(0,0,0,0.06); color:#9ca3af; font-size:0.8rem;">
+<div style="text-align:center; background:white; border-radius:16px; padding:1rem;
+            box-shadow:0 3px 9px rgba(0,0,0,0.06); color:#9ca3af; font-size:0.9rem;">
     Data Source: World Bank · What a Waste 3.0 &nbsp;·&nbsp;
     Dashboard by Nuwangi &nbsp;·&nbsp; 5DATA004C Coursework
 </div>
