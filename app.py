@@ -143,7 +143,7 @@ if not filtered_df.empty:
 else:
     st.warning("No data available — try a different indicator or year.")
 st.markdown('</div>', unsafe_allow_html=True)
-
+#World Map
 # ── CHART 2: World Map ────────────────────────────────────────────────────────
 st.markdown('<div class="box">', unsafe_allow_html=True)
 st.markdown('<div class="box-title">🗺️ World Map View</div>', unsafe_allow_html=True)
